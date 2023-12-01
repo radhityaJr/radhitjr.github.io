@@ -1,0 +1,169 @@
+
+li a {
+    text-decoration: none;
+    color: black;
+    padding: 30px 15px;
+    text-align: center;
+    float: left;
+    margin-right: 2%;
+}
+
+ul a:hover {
+    color: white;
+}
+
+ul {
+    background-color: bisque;
+    overflow: hidden;
+}
+
+
+.twitter {
+    padding: 10px;
+    padding-top: 20px;
+}
+
+.ig {
+   padding: 20px; 
+   padding-top: 22px;
+}
+
+.facebook {
+    padding: 20px;
+    padding-top: 23px;
+}
+
+.logo {
+    float: left;
+    position: relative;
+    margin-left: 0%;
+    padding: 15px;
+    padding-top: 20px;
+    background-color: beige;
+    
+}
+
+.bes {
+    margin-left: 6%;
+    font-family: sans-serif;
+}
+
+.click{
+    margin-left: 6%;
+    font-size: 135%;
+    padding: 20px 40px;
+    opacity : 0.6;
+    transition: 0.3s;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    border: 3px solid goldenrod;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: sans-serif;
+}
+.click:hover{opacity: 1;} 
+
+.image {
+    display: block;
+    float: right;
+    margin-right: 15%;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.80), 0 10px 20px 0 rgba(0, 0, 0, 0.80);
+}
+
+.about h1 {
+    margin-left: 5%;
+    font-family: sans-serif;
+}
+.about h1:hover {
+    color: gray;
+}
+.about h3 {
+    margin-left: 5%;
+    font-family: sans-serif;
+}
+
+.projik h1 {
+    margin-left: 5%;
+    font-family: sans-serif;
+}
+
+.responsive {
+    float: left;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.gallery {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 100px;
+
+}
+
+.gallery:hover {
+    transition: ease-in-out all 0.3s;
+    border: 3px solid #738586;
+    box-shadow:  15px 20px rgb(0, 0, 0,0.10) ;
+
+}   
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+.gallery img {
+    border-radius: 12px ;
+}
+  
+@media only screen and (max-width: 700px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+}
+  
+@media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+}
+
+.jt {
+    margin-left: 5%;
+    margin-top: 15%;
+}
+
+.jt:hover {
+    color: gray;
+}
+
+.fa img {
+    margin-left: 5%;
+    border-radius: 12px;
+}
+
+.ntap {
+    margin-left: 5%;
+}
+
+.textcil {
+    margin-left: 5%;
+    font-size: 110%;
+}
+
+.bor {
+    margin-top: 650px;
+    display: block;
+    border: 3px solid gray;
+    border-radius: 15px;
+    box-shadow: 0 10px 10px rgba(117, 115, 115, 0.8), 0 10px 20px 0 rgba(90, 87, 87, 0.8);
+}
+

@@ -1,0 +1,275 @@
+* {
+    font-family: sans-serif;    
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 3%;
+}
+
+.container > nav > a {
+    font-size: 25px;
+}
+
+.imghero > img {
+    width: 600px;
+    height: 600px;
+    margin-right: 120px;
+}
+
+
+
+header > img {
+    width: 150px;
+    height: 80px;
+    margin-top: -2%;
+}
+
+header > nav > a {
+    text-decoration: none;
+    color: black;
+    padding: 40px;
+}
+
+nav > a:hover {
+    color: lightblue;
+}
+
+.but {
+    display: flex;
+    margin-top: 8%;
+}
+        
+
+.hi {
+    font-size: 90px;
+    margin-left: 3%;
+}
+
+.set {
+    font-size: 25px;
+    margin-top: -5%;
+    margin-left: 5%;
+}
+
+
+.button1{
+        margin-left: 6%;
+        font-size: 135%;
+        opacity : 0.6;
+        transition: 0.3s;
+        border-radius: 12px;
+        background-color: rgb(0, 191, 255);
+        border: 3px solid rgb(0, 191, 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        padding: 20px 30px;   
+}
+
+.button2 {
+    margin-left: 6%;
+    font-size: 135%;
+    padding: 20px 30px;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    border: 3px solid rgb(112, 118, 120);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button1 > a {
+    text-decoration: none;
+    color: black;
+}
+
+.button2 > a {
+    text-decoration: none;
+    color: black;
+}
+
+.ntap {
+    margin-top: 25%;
+}
+
+
+.hider > p {
+    font-size: 50px;
+    margin-left: 5%;
+}
+
+.one:hover {
+    color: gray;
+}
+
+
+.imjprj {
+    margin-left: 5%;
+}
+
+.imjprj > img {
+    padding: 8px;
+}
+
+
+
+.let {
+    margin-top: 15%;
+}
+
+.let > p {
+    margin-left: 5%;
+    font-size: 50px;
+}
+
+.con > ul {
+    margin-left: 5%;
+}
+
+.con > ul > li {
+    font-size: 30px;
+}   
+
+.ebot > img {
+    border-radius: 150px;
+    margin-left: 10%;
+}
+
+.ebot {
+    margin-top: 15%;
+    display: flex;
+}
+
+.ebot > p {
+    margin-left: 13%;
+    font-size: 40px;
+}
+
+.bott:hover {
+    color: gray;
+}
+
+.emp {
+    margin-left: 40%;
+}   
+
+.emp > p {
+    font-size: 30px;
+    margin-top: -15%;
+}
+
+.imjprj > img {
+    border-radius: 25px;
+}
+
+
+.jet {
+    display: flex;
+}
+
+.him {
+    margin-top: 15%;
+    font-size: 30px;
+}
+
+.cook {
+    margin-top: 15%;
+    font-size: 30px;
+}
+
+.foter {
+    display: flex;
+    margin-top: 30%;
+    justify-content: space-around;
+    border: 3px solid gray;
+    border-radius: 15px;
+    box-shadow: 0 30px 10px gray;
+    background-color: antiquewhite;
+}
+
+.con1 > h1 {
+    font-size: 50px;
+}
+
+.con1 > ul {
+    font-size: 30px;
+}
+
+.con2 > h1 {
+    font-size: 50px;
+}
+
+.con2 > ul {
+    font-size: 30px;
+}
+
+.con3 > h1 {
+    font-size: 50px;
+}
+
+.con3 > ul {
+    font-size: 30px;
+}
+
+.skil {
+    margin-top: 60%;
+}
+
+.skil > p{
+    margin-left: 40%;
+    font-size: 85px;
+}
+
+
+.lok{
+    border: 5px solid gray;
+    padding: 200px;
+    
+}
+
+.lok > img {
+    margin-left: 7%;
+}
+
+.responsive {
+    float: left;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.gallery {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 100px;
+
+}
+
+.gallery:hover {
+    transition: ease-in-out all 0.3s;
+    border: 3px solid #738586;
+    box-shadow:  15px 20px rgb(0, 0, 0,0.10) ;
+
+}   
+
+.ne {
+    padding: 15px;
+    text-align: center;
+  }
+  
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+.gallery img {
+    border-radius: 12px ;
+    margin-left: 10%    ;
+}
+
+.foter {
+    margin-top: 30%;
+}
+
+.space {
+    margin-top: 30%;
+}   

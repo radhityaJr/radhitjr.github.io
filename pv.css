@@ -1,0 +1,140 @@
+* {
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.hider > nav > a {
+    font-size: 25px;        
+    text-decoration: none;
+    color: black;
+    float: left;
+    margin-right: 8%;
+}
+
+nav a:hover {
+    color: whitesmoke;
+}
+
+.hider {
+    background-color: bisque;
+    overflow: hidden;
+    padding:40px;  
+}
+
+.hider > nav {
+    margin-left: 15%;
+}
+
+.bes {
+    margin-left: 6%;
+    font-size: 35px;
+    margin-top: -20%;
+
+}
+
+.bes > h4 {
+    margin-top: 1%;
+}
+
+.imgpr {
+    margin-left: 60%;
+}
+
+.imgpr > img {
+    width: 500px;
+    height: 500px;
+    margin-top: 20%;
+    border-radius: 300px;
+}
+
+.botme {
+    margin-top: 25%;
+    margin-left: 5%;
+}
+
+.botme > h1 {
+    font-size: 60px;
+}
+
+.botme > p {
+    font-size: 30px;
+    margin-top: 1%;
+}
+
+
+.project {
+    margin-top: 20%;
+}
+
+.project > h1 {
+    margin-left: 5%;
+    font-size: 60px;
+}
+
+.project > img {
+    margin-left: 5%;
+    border-radius: 15px;
+    margin-top: 3%;
+}
+
+.foter {
+    display: flex;
+    margin-top: 30%;
+    justify-content: space-around;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    padding: 30px 30px;
+}
+
+.con1 > h1 {
+    font-size: 50px;
+}
+
+.con1 > ul {
+    font-size: 30px;
+}
+
+.con2 > h1 {
+    font-size: 50px;
+}
+
+.con2 > ul {
+    font-size: 30px;
+}
+
+.con3 > h1 {
+    font-size: 50px;
+}
+
+.con3 > ul {
+    font-size: 30px;
+}
+
+.animes {
+    margin-top: 20%;
+    background-color: gray;
+    padding: 50px;
+}
+
+.animes > marquee > h1 {
+    font-size: 70px;
+}
+
+.rwr {
+    margin-top: 20%;
+}
+
+.skil {
+    border: 3px solid gray;
+    padding: 50px;
+}
+
+.skil > img {
+    margin-left: 13%;
+}
+
+.rwr > p {
+    font-size: 70px;
+    margin-left: 40%;
+}
